@@ -1,67 +1,35 @@
 {
   "main": {
-    "id": "2d79f811cc7c968c",
+    "id": "13830639c588147f",
     "type": "split",
     "children": [
       {
-        "id": "a1967fda248b5566",
+        "id": "37c26f2d8597e657",
         "type": "tabs",
         "children": [
           {
-            "id": "5d1fdac8a8f466e8",
+            "id": "100bd4a9c75a13d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docs/Project Hub.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bae0685aa8fd95a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docs/Timeline.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8954c851613b6ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docs/README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3b95e4fdf2eae0df",
+    "id": "9e49f7a5096479e2",
     "type": "split",
     "children": [
       {
-        "id": "8d15bd751d5f8315",
+        "id": "834e3a91fd168a20",
         "type": "tabs",
         "children": [
           {
-            "id": "fe515236832e0540",
+            "id": "ddd382429249e08b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,12 +39,12 @@
             }
           },
           {
-            "id": "af5df5a2a1b59ebf",
+            "id": "95a640f8b72050c0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "hall",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,15 +54,56 @@
             }
           },
           {
-            "id": "badb70bbc2988c22",
+            "id": "c743e20766df94b1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1612d89fb4595d66",
+    "type": "split",
+    "children": [
+      {
+        "id": "604c77353e431c76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15e8d86622482bb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           },
           {
-            "id": "1c0d341d1413b2db",
+            "id": "fb9dea5ba5fee2eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7c06777bf354aa4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -103,39 +112,9 @@
                 "useHierarchy": true
               }
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 287.5
-  },
-  "right": {
-    "id": "8ba6b92e55eaf4e5",
-    "type": "split",
-    "children": [
-      {
-        "id": "8c6eb1a509b00614",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c9829fae37b0a3c4",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
           },
           {
-            "id": "3e70a799782b21b6",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "e8249a909a4284ca",
+            "id": "f35323923cc81f98",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,195 +126,42 @@
             }
           },
           {
-            "id": "f1f25e1c4aee083f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Docs/README.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "e53e6fb872db644c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Wiki/Motor Driver Comparison.md"
-              }
-            }
-          },
-          {
-            "id": "4a561170ef53ebd2",
+            "id": "ad236a72cea73b73",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
               "state": {}
-            }
-          },
-          {
-            "id": "6f506d23ab6c4500",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "996d6d15d91a46a5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c42640967fcfc256",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Docs/README.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8c222d96453dd6e4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bf0c8bbd53a10628",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Docs/README.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.4444444444444444,
-                  "close": true
-                }
-              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "time-ruler:Open Time Ruler": false,
+      "dbfolder:Create a new database table": false,
+      "cmdr:Time Ruler: Open Time Ruler in Main Tab": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "random-note:Open random note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": true,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "time-ruler:Open Time Ruler": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian42-brat:BRAT": false,
-      "dbfolder:Create a new database table": false,
-      "cmdr:Time Ruler: Open Time Ruler in Main Tab": false,
-      "copilot:Copilot Chat": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-day-planner:Timeline": false
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8954c851613b6ba6",
-  "lastOpenFiles": [
-    "README.md",
-    "Docs/Timeline.md",
-    "Docs/README.md",
-    "Docs/Project Hub.md",
-    "Docs/Wiki/Components/Load Sharing Solutions.md",
-    "Docs/Wiki/Components/Microcontroller Comparison.md",
-    "Docs/Wiki/Architecture/Modular design.md",
-    "Docs/Wiki/Architecture/ESP32-S3 Pinout.canvas",
-    "reference documentation/Currently Used ICs/6100.PDF",
-    "reference documentation/Currently Used ICs/6102.PDF",
-    "reference documentation/Currently Used ICs/6100-1.PDF",
-    "reference documentation/Currently Used ICs/axon-space-flat-cables_br.pdf",
-    "reference documentation/Currently Used ICs/con_eng_y3b.pdf",
-    "reference documentation/esp32-s3_datasheet_en.pdf",
-    "Docs/Wiki/Components",
-    "Docs/Wiki/Architecture",
-    "Docs/Wiki/Potential Names.md",
-    "reference documentation/esp32-s3_technical_reference_manual_en.pdf",
-    "Docs/Wiki/Banned Words for Names.md",
-    "Docs/Wiki/test canvas node.md",
-    "Docs/Wiki/media/ESP32-S3.png",
-    "Action Items/Design Motor and Control subsystem/2024-04-23 Design Test single motor driver board.md",
-    "Wiki/Gearboxes.md",
-    "Excalidraw/Diagram of cycloidal with inner wiring 2024-07-26.excalidraw.md",
-    "Excalidraw",
-    "Wiki/Microcontroller Comparison.md",
-    "Bookmarks/2024-07-24 16-27-23 - Miniature Bearing Size Chart A Comprehensive Guide to Miniature Ball Bearings.md",
-    "Bookmarks/assets/2024-07-24 16-27-23 - Miniature Bearing Size Chart A Comprehensive Guide to Miniature Ball Bearings/miniature bearing size chart-2.png",
-    "Bookmarks/assets/2024-07-24 16-27-23 - Miniature Bearing Size Chart A Comprehensive Guide to Miniature Ball Bearings/miniature bearings-2.jpg",
-    "Bookmarks/assets/2024-07-24 16-27-23 - Miniature Bearing Size Chart A Comprehensive Guide to Miniature Ball Bearings/miniature bearing size chart-4.jpg",
-    "Bookmarks/assets/2024-07-24 16-27-23 - Miniature Bearing Size Chart A Comprehensive Guide to Miniature Ball Bearings/miniature bearings-1.png",
-    "Bookmarks/assets/2024-07-24 16-27-23 - Miniature Bearing Size Chart A Comprehensive Guide to Miniature Ball Bearings/miniature bearing size chart-1.png",
-    "Bookmarks/assets/2024-07-24 16-27-23 - Miniature Bearing Size Chart A Comprehensive Guide to Miniature Ball Bearings/miniature bearings-1.jpg",
-    "Bookmarks/assets/2024-07-24 16-27-23 - Miniature Bearing Size Chart A Comprehensive Guide to Miniature Ball Bearings/miniature bearing size chart-3.jpg",
-    "Bookmarks/assets/2024-07-24 16-27-23 - Miniature Bearing Size Chart A Comprehensive Guide to Miniature Ball Bearings/miniature bearing size chart-2.jpg",
-    "Bookmarks/assets/2024-07-24 16-27-23 - Miniature Bearing Size Chart A Comprehensive Guide to Miniature Ball Bearings/miniature bearing size chart-1.jpg",
-    "Action Items/Design Motor and Control subsystem/2024-06-24 Design Gearbox.md",
-    "Wiki/Encoders.md",
-    "Wiki/Board Manufacturer notes.md",
-    "Action Items/Source Brushless motor components/2024-01-10 Decide on motor brand and size.md",
-    "Action Items/Source Brushless motor components/Source Brushless motor components.md",
-    "Timeline.md",
-    "Action Items/Source Brushless motor components/2024-01-10 Find Brushless motor drivers.md",
-    "Action Items/Source Brushless motor components/2024-04-24 Find Clocks.md",
-    "Action Items/Source Brushless motor components/2024-04-27 Find PMIC components.md",
-    "Action Items/Source Brushless motor components/2024-05-13 Find Battery Protection devices.md",
-    "Action Items/Source Brushless motor components/2024-05-30 Find motor encoders.md",
-    "Journal Notes/2023/2023-05-May/Untitled.canvas",
-    "Journal Notes/2023/Untitled.canvas",
-    "Untitled.canvas",
-    "foldertest/Untitled.canvas",
-    "Untitled.sync-conflict-20230305-153817-XVKLG4Y.canvas",
-    "Obsidian Vault/Untitled.canvas",
-    "Untitled 1.canvas"
-  ]
+  "active": "100bd4a9c75a13d8",
+  "lastOpenFiles": []
 }
